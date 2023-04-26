@@ -1,5 +1,4 @@
 !docker-compose.yml
-/grafana/*
-!/grafana
+./grafana/*
 !/grafana/provisioning
 !/prometheus
