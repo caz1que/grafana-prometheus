@@ -1,4 +1,6 @@
 !docker-compose.yml
-./grafana/*
 !/grafana/provisioning
+/grafana/csv/
+/grafana/alerting/
+/grafana/grafana.db
 !/prometheus
